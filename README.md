@@ -66,13 +66,13 @@ This project is part of my Data Science & Analytics internship with [Future Inte
 
 ## 🔗 Links
 
-- 🔗 *LinkedIn Post*:https://www.linkedin.com/posts/kamatham-sneha-51251630b_dataanalytics-powerbi-ecommerceanalysis-activity-7356010056254992384-QacY?utm_source=share&utm_medium=member_android&rcm=ACoAAFdGXAAB-fXzQ6R_5qWfN7G0KH5au-Qclsc
+- 🔗 *LinkedIn Post*:https://lnkd.in/p/d248gD58
 ---
 ## 👨‍💻 Author
 
-*KAMATHAM SNEHA*
-- LinkedIn: lwww.linkedin.com/in/kamatham-sneha-51251630b 
-- Email: kamathamsneha27@gmail.com
+*MUDRAGADA PARINITHA DEVI*
+- LinkedIn: Parinitha Mudragada
+- Email: parinitha42006@gmail.com
 
 
 ## 📄 License
